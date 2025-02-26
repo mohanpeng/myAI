@@ -1,4 +1,4 @@
-export const OWNER_NAME: string = `[OWNER NAME]`;
+export const OWNER_NAME: string = `Jeff`;
 export const OWNER_DESCRIPTION: string = `[OWNER DESCRIPTION]`;
 
 export const AI_NAME: string = `AI Assistant on IR Development`;
